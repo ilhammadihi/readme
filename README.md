@@ -8,9 +8,9 @@ I'm passionate about the complete data lifecycle — from ingestion and transfor
 Currently focused on:
 
  Data Engineering: Building scalable pipelines and data transformations
-🤖 Machine Learning: Applied ML, classification, feature engineering
-📊 Data Analytics: Exploratory analysis and meaningful visualizations
-🤖 GenAI & Agentic AI: CrewAI, LLMs, and intelligent automation systems
+ Machine Learning: Applied ML, classification, feature engineering
+ Data Analytics: Exploratory analysis and meaningful visualizations
+ GenAI & Agentic AI: CrewAI, LLMs, and intelligent automation systems
 
 Data Science & ML
 Pandas • NumPy • Scikit-Learn • TensorFlow • Matplotlib
